@@ -1,2 +1,4 @@
 name: My cat album
 description: This is a collection of cat photographs. I hope you enjoy them.
+photos:
+  cat: This is a photo of my cat Beef
